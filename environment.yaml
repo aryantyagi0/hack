@@ -1,0 +1,17 @@
+name: work-at-gojek
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - jupyter
+      - pandas
+      - scikit-learn
+      - numpy
+      - matplotlib
+      - seaborn
+      - black
+      - haversine
+      - toml
+      - nose
+      - xgboost
+pip install xgboost
